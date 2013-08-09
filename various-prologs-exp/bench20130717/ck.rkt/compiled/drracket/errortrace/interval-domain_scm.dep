@@ -1,0 +1,1 @@
+("5.3.4" ("3048375636f0402d3b4298fcf8b8376d3d96f79d" . "88715999723fc10adbb07d1b3e7f7e16ddcb4051") #"C:\\Users\\ejamben\\Desktop\\ck.rkt\\ck.scm" (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.4" ("aac2a4db955843ad810560b8c6dd88cb9398efc5" . "b322d1df1f1fc6dad03a173240f5cd3768eba8b4") #"C:\\Users\\ejamben\\Desktop\\ck.rkt\\ck.scm" (collects #"racket" #"main.rkt") #"C:\\Users\\ejamben\\Desktop\\ck.rkt\\interval-domain.scm" (collects #"racket" #"lang" #"reader.rkt"))

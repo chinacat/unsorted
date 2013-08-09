@@ -1,0 +1,1 @@
+("5.3.4" ("669926078ecc97b2a006eb4f855d426fff372433" . "7674675e5415ec4a895736f2000f2c34871988e7") #"C:\\Users\\ejamben\\Desktop\\Historical - Nortel\\Old coding and docs\\cKanren port 201305\\ck.rkt\\ck.scm" (collects #"racket" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))
